@@ -1,3 +1,4 @@
-[![Top Langs](https://git-hub-readme-stats-clone-roan.vercel.app/api/top-langs/?username=daiki-gaasuu&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://git-hub-readme-stats-clone-roan.vercel.app/api?username=daiki-gaasuu&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="[https://git-hub-readme-stats-clone-roan.vercel.app/api/top-langs/?username=daiki-gaasuu&count_private=true&layout=compact&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://git-hub-readme-stats-clone-roan.vercel.app/api?username=daiki-gaasuu&theme=onedark" />
+</p>
