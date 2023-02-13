@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiki-gaasuu&theme=dracula)
 
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-daiki-gaasuu.vercel.app/api/top-langs?username=daiki-gaasuu&count_private=true&layout=compact&theme=dracula&langs_count=10&hide=html,css&cache_seconds=1800" />
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-daiki-gaasuu.vercel.app/api/top-langs?username=daiki-gaasuu&count_private=true&layout=compact&theme=dracula&langs_count=4&hide=html,css,perl,php,coldfusion,javascript,lasso,scss,classic+asp,asp.net,shell,makefile" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-clone-daiki-gaasuu.vercel.app/api?username=daiki-gaasuu&count_private=true&include_all_commits=true&theme=dracula" />
 </p>
